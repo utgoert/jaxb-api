@@ -14,7 +14,7 @@
 The Jakarta XML Binding provides an API and tools that automate the mapping
 between XML documents and Java objects.
 
-## License
+## Licensea
 
 * Most of the Jakarta XML Binding project source code is licensed
 under the [Eclipse Distribution License (EDL) v1.0.](https://www.eclipse.org/org/documents/edl-v10.php);
