@@ -6,7 +6,7 @@
 [//]: # "  "
 [//]: # " SPDX-License-Identifier: BSD-3-Clause "
 
-# Jakarta XML Binding project
+# Jakarta XML Binding projects
 
 [![Build Status](https://github.com/eclipse-ee4j/jaxb-api/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/eclipse-ee4j/jaxb-api/actions/workflows/maven.yml?branch=master)
 [![Jakarta Staging (Snapshots)](https://img.shields.io/nexus/s/https/jakarta.oss.sonatype.org/jakarta.xml.bind/jakarta.xml.bind-api.svg)](https://jakarta.oss.sonatype.org/content/repositories/staging/jakarta/xml/bind/jakarta.xml.bind-api/)
